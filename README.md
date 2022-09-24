@@ -1,2 +1,2 @@
 # CS2336
-Class Projects and Useful Files
+This was my final project for CS2336, and honestly the first coding project I've ever successfully created. It's efficiency is terrible lol, if you look at it from that perspective. But, I learned perservence in coding with this project, useful debugging skills I never thought I'd learn, and even the importance of having a backup to a backup for your projects and files. Therefore, I commit this project to this branch/repository to look back on in years to come, just to see how much better my algorithms have gotten.

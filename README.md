@@ -1,2 +1,2 @@
-# CS2336
+# School Work
 Class Projects and Useful Files

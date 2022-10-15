@@ -1,4 +1,2 @@
-# School Work
-Class Projects and Useful Files
-
-Look through the branches to see your work through out the years
+# CS3345
+This was the first list I coded out, it was a LinkedList, created through methods inspired by Mehra and Ozbirn.
